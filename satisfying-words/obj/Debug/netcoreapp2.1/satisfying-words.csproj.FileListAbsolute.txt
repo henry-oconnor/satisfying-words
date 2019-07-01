@@ -1,0 +1,12 @@
+C:\Users\hoconnor\Documents\Satisfying-Words\satisfying-words\bin\Debug\netcoreapp2.1\satisfying-words.deps.json
+C:\Users\hoconnor\Documents\Satisfying-Words\satisfying-words\bin\Debug\netcoreapp2.1\satisfying-words.runtimeconfig.json
+C:\Users\hoconnor\Documents\Satisfying-Words\satisfying-words\bin\Debug\netcoreapp2.1\satisfying-words.runtimeconfig.dev.json
+C:\Users\hoconnor\Documents\Satisfying-Words\satisfying-words\bin\Debug\netcoreapp2.1\satisfying-words.dll
+C:\Users\hoconnor\Documents\Satisfying-Words\satisfying-words\bin\Debug\netcoreapp2.1\satisfying-words.pdb
+C:\Users\hoconnor\Documents\Satisfying-Words\satisfying-words\obj\Debug\netcoreapp2.1\satisfying-words.csproj.CoreCompileInputs.cache
+C:\Users\hoconnor\Documents\Satisfying-Words\satisfying-words\obj\Debug\netcoreapp2.1\satisfying-words.AssemblyInfoInputs.cache
+C:\Users\hoconnor\Documents\Satisfying-Words\satisfying-words\obj\Debug\netcoreapp2.1\satisfying-words.AssemblyInfo.cs
+C:\Users\hoconnor\Documents\Satisfying-Words\satisfying-words\obj\Debug\netcoreapp2.1\satisfying-words.dll
+C:\Users\hoconnor\Documents\Satisfying-Words\satisfying-words\obj\Debug\netcoreapp2.1\satisfying-words.pdb
+C:\Users\hoconnor\Documents\Satisfying-Words\satisfying-words\bin\Debug\netcoreapp2.1\qwerty-layout.txt
+C:\Users\hoconnor\Documents\Satisfying-Words\satisfying-words\bin\Debug\netcoreapp2.1\english-10k-long.txt
